@@ -63,7 +63,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
- 
+https://replit.com/badge/github/YOUR_USERNAME/YOUR_REPO 
 
     
 
