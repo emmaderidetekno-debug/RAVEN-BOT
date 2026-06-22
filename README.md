@@ -7,7 +7,7 @@
   
 <p align="center">
 
-[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+[![Nick Hunter](https://github.com/teccleo2-hub/RAVEN-BOT)](https://github.com/teccleo2-hubb)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
@@ -19,7 +19,7 @@
 <a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/teccleo2-hubb/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
 </p>
  
 
@@ -47,7 +47,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
+<a href="https://github.com/teccleo2-hubb/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
 <p/>
 
   
@@ -63,10 +63,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
-https://replit.com/badge/github/YOUR_USERNAME/YOUR_REPO 
-
-    
-
+  [![Run on Replit](https://replit.com/badge/github/YOUR_USERNAME/YOUR_REPO)](https://replit.com/new/github/teccleo2-hub/https://github.com/teccleo2-hub/RAVEN-BOT)
 - Fill in the required variables into your hosting site for bot to work.
  </h2>
      
